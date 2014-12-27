@@ -1,3 +1,3 @@
-node 'celso.puppetlabs.vm' {
+node 'Quartermaster' {
    include puppet
 }

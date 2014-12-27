@@ -1,5 +1,3 @@
-node 'Quartermaster' {
-   file { '/tmp/hello':
-   content => "Hello, world\n",
- }
+node 'celso.puppetlabs.vm' {
+   include puppet
 }
